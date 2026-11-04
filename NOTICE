@@ -1,0 +1,17 @@
+muovt
+Copyright 2026 Nduli96
+
+muovt is based on Caveman (https://github.com/JuliusBrussee/caveman).
+
+Caveman
+Copyright 2026 Julius Brussee
+
+Caveman is licensed under the Apache License, Version 2.0 (see LICENSE). Contributions
+made to Caveman before version 3.0.0 remain available under the MIT License, whose
+notice is kept in LICENSE-MIT.
+
+Changes made in muovt: the rules were rewritten and shortened, finished tasks get a
+one-word reply, and rules were added to limit what the agent reads and does.
+
+muovt is not affiliated with or endorsed by Caveman or Julius Brussee. "Caveman" is a
+trademark of Julius Brussee.
