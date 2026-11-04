@@ -59,13 +59,13 @@ On very small tasks, muovt saves almost nothing. Most of the cost there is the c
 
 ## Install
 
-Copy this folder into your personal skills, so it works in every project:
+Clone it into your personal skills, so it works in every project:
 
 ```bash
-cp -r muovt ~/.claude/skills/muovt
+git clone https://github.com/Nduli96/muovt ~/.claude/skills/muovt
 ```
 
-To use it in one project only, copy it to `.claude/skills/muovt` inside that project.
+To use it in one project only, copy `SKILL.md` to `.claude/skills/muovt/` inside that project.
 
 Then type `/muovt` followed by what you want done.
 
